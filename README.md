@@ -4,11 +4,8 @@
 
 ## 感谢原作者
 
-本主题是基于jekyll的一款主题移植过来的，首先在这里感谢原作者:[overtrue](https://github.com/overtrue/overtrue.github.io)
+本主题是基于 [Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll) 主题移植过来的，首先在这里感谢原作者:[DONGChuan](https://github.com/DONGChuan)
 
-## 为什么叫Primer?
-
-使用了Github的`primer`，主题弥漫着一股Git风，由于个人是个强迫症患者，喜欢简洁 去掉了 `搜索` `分类` 只保留了tag
 
 ## 安装
 
@@ -111,3 +108,5 @@ github:
 
 
 欢迎大家 fork push。
+
+
