@@ -5,7 +5,6 @@ menus:
 	- 
 		name: 分类
 		link: category/
-		target: true
 	- 
 		name: 开源项目
 		link: open-source/
@@ -14,8 +13,8 @@ menus:
 		link: message/
 
 profile:
-	location: ChengDu, China
-	github: yumemor
+	location: Beijing, China
+	github: ihewro
 	#stackoverflow: 
 		#title: yumemor
 		#href: http://stackoverflow.com/users/5662132/yumemor
@@ -23,10 +22,10 @@ profile:
 
 github: 
 	username: yumemor
-  popular_repos: [hexo-theme-primer]
+  popular_repos: [typecho-theme-handsome,typecho-theme-leaf,typecho-theme-greenray,Duoshuo-Disqus-theme,typecho-theme-book]
 
 comment:
-	duoshuo_username: 
-	#disqus_username: 
+	#duoshuo_username: 
+	disqus_username: wiki-ihewro 
 
 search: local #google｜local
